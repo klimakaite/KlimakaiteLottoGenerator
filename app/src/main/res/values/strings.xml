@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lotto Generator</string>
+    <string name="enterNumber">Enter number</string>
+    <string name="button">BUTTON</string>
+</resources>
